@@ -1,6 +1,6 @@
 # Lynx
 
-### Setup RTMP serveur with nginx 2024 version
+### Setup RTMP server with nginx 2024 version
 
 sudo apt update
 
